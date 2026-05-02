@@ -54,13 +54,13 @@ NDVI = (NIR - Red) / (NIR + Red)
 
 ## Outputs
 
-### 🔹 NDVI Time-Series Animation
-![NDVI Animation](ndvi_2004_2025.gif)
+### NDVI Time-Series Animation
+
 
 ---
 
 ### Grid Preview
-![NDVI Grid](ndvi_grid_preview.png)
+
 
 ---
 
